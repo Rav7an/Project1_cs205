@@ -1,7 +1,7 @@
 ### Document the structure of A* with Manhattan distance heuristic
 import numpy as np
 import heapq
-from termcolor import colored
+from termcolor import colored # used just to make the output colourful
 
 ## Class to represent the state of the puzzle
 class PuzzleState:
